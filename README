@@ -1,0 +1,7 @@
+# init
+cordova prepare
+(will install plugins & platforms saved [cordova platform save & cordova plugin save])
+
+
+
+
